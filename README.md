@@ -2,7 +2,7 @@
 
 I'm Ryu Myeongseok,
 
-CV 
+You can find my CV [here](cv.pdf).
 
 ## Interested Research Fields
 
