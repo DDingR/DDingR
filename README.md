@@ -3,7 +3,7 @@
 I'm Ryu Myeongseok, a Ph.D. student in the __Department of Mechanical and Robotics Engineering__ at __Gwangju Institute of Science and Technology__ (GIST). 
 
 > [!NOTE]
-> I will move to the __Cho Chun Shik Graduate School of Mobility__ at __Korean Advanced Institute of Science and Technology__ (KAIST) in September 2022.
+> I will move to the __Cho Chun Shik Graduate School of Mobility__ at __Korean Advanced Institute of Science and Technology__ (KAIST) in May 2025.
 
 I'm currently a member of the __Mobility Intelligence & Control Laboratory (MIC Lab)__ at GIST. 
 The MIC Lab is a research group led by Prof. __Kyunghwan Choi__.
