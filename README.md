@@ -8,7 +8,6 @@ I'm Ryu Myeongseok, a Ph.D. student in the __Department of Mechanical and Roboti
 I'm currently a member of the __Mobility Intelligence & Control Laboratory (MIC Lab)__ at GIST. 
 The MIC Lab is a research group led by Prof. __Kyunghwan Choi__.
 See, GitHub Organization of the MIC Lab 
-
 <a href="https://github.com/KAIST-MIC-Lab"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>.
 
 You can find more biography in 
@@ -21,7 +20,6 @@ My CV is available in [HERE](cv.pdf).
 <a href="mailto:msryu00@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="mailto:dding_98@gm.gist.ac.kr"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
 
-
 <!-- https://github.com/Envoy-VC/awesome-badges -->
 
 ## Interested Research Fields
@@ -31,8 +29,11 @@ My research interests include:
 - Machine Learning
 - Optimization
 
-Final goal of my research is to develop a new control algorithm such that:
-- ...
+Final goal of my research is to develop a control algorithm that enables
+- deep learning techniques integration (including DNN, CNN, LSTM, etc).
+- online adaptation (learning) ensuring the system stability.
+- mathematical analysis of control performance.
+- (control input, state/output) contraints handling. 
 
 ## Selected Publications (Repositories)
 
