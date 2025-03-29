@@ -1,4 +1,4 @@
-# Welcome to My GitHub Page
+# Welcome to Myeongseok's GitHub Page
 
 I'm Ryu Myeongseok, a Ph.D. student in the __Department of Mechanical and Robotics Engineering__ at __Gwangju Institute of Science and Technology__ (GIST). 
 
