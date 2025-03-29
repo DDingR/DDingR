@@ -18,8 +18,8 @@ You can find more biography in
 My CV is available in [HERE](cv.pdf).
 
 ## Contact
-<a href="msryu00@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="dding_98@gm.gist.ac.kr"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
+<a href="mailto:msryu00@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:dding_98@gm.gist.ac.kr"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
 
 
 <!-- https://github.com/Envoy-VC/awesome-badges -->
