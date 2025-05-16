@@ -10,6 +10,19 @@ You can find more biography in
 - [Our webpage](https://kaist-mic-lab.github.io/members/msRyu/) (most of PDFs are available)
 - <a href="https://scholar.google.com/citations?user=gUHuDJ4AAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/></a>
 - <a href="https://www.researchgate.net/profile/Myeongseok-Ryu"><img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white"/></a>
+- <a
+  id="cy-effective-orcid-url"
+  class="underline"
+  href="https://orcid.org/0009-0004-3279-5765"
+  target="orcid.widget"
+  rel="me noopener noreferrer"
+  style="vertical-align: top">
+  <img
+    src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+    style="width: 1em; margin-inline-start: 0.5em"
+    alt="ORCID iD icon"/>
+  https://orcid.org/0009-0004-3279-5765
+</a>
 
 <!-- My CV is available in [HERE](cv.pdf). -->
 
