@@ -1,6 +1,6 @@
 # Welcome to Myeongseok's GitHub Page
 
-I'm __Ryu, Myeongseok__, a __Ph.D. student__ in the [__Cho Chun Shik Graduate School of Mobility__](https://mo.kaist.ac.kr/en/) at [__Korean Advanced Institute of Science and Technology__ (KAIST)](https://www.kaist.ac.kr/kr/). 
+I'm __Ryu, Myeongseok__, a __Ph.D. student__ in the [__CCS Graduate School of Mobility__](https://mo.kaist.ac.kr/en/) at [__Korea Advanced Institute of Science and Technology__ (KAIST)](https://www.kaist.ac.kr/kr/). 
 I'm currently a member of the [__Mobility Intelligence & Control Laboratory (MIC Lab)__](https://kaist-mic-lab.github.io) at __KAIST__. 
 The MIC Lab is a research group led by [__Prof. Kyunghwan Choi__](https://scholar.google.com/citations?user=bvOhAiMAAAAJ).
 
