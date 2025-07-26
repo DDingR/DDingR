@@ -20,59 +20,122 @@
 \documentclass{resume} % Use the custom resume.cls style
 
 \usepackage[left=0.40in,top=0.3in,right=0.75in,bottom=0.1in]{geometry} % Document margins
-\usepackage{fontawesome}
+\usepackage{fontawesome5}
+\usepackage{academicons}
+\usepackage[normalem]{ulem}
 \usepackage{times}
+\usepackage{etaremune}
 \newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}}
 \newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+\usepackage{hyperref}
+\usepackage{kotex}
+
 % \begin{center}
 
 % \end{center}
+
 \name{
-    Ryu Myeongseok
+    Myeongseok Ryu
 } % Your name 
 
-
-%\address{123 Pleasant Lane \\ City, State 12345} % Your secondary addess (optional)
 \address{
-    \faGithub{ github.com/DDingR} 
-    \faEnvelope{ dding\_98@gm.gist.ac.kr}
+    \faHome{ \href{https://kaist-mic-lab.github.io}{https://kaist-mic-lab.github.io}}
+    \faOrcid{ \href{https://orcid.org/0009-0004-3279-5765}{0009-0004-3279-5765}}
+    \faGithub{ \href{https://github.com/DDingR}{github.com/DDingR}} 
     } 
+
 \address{
     \faMapMarker{ 
-        123 Cheomdangwagi-ro, Buk-gu, Gwangju, 61005, Korea
+        \href{https://maps.app.goo.gl/R9xKhqfr56iTe5Pa6}{193, Munji-ro, Yuseong-gu, Daejeon, 34051, Korea}
     } \faPhone{
-        (+82)10-9953-6538
-        }
+        \href{tel:+821099536538}{+82 10-9953-6538} % Your phone number
+    }
+    \faEnvelope{ 
+        \href{mailto:dding_98@kaist.ac.kr}{dding\_98@kaist.ac.kr}
+    }
     } % Your address
 
 \begin{document}
 {\centerline {\em \textbf { Myeongseok Ryu is under Ph.D. course.} } }
 
 % ============================================
+% Research Interests
+% ============================================
+\begin{rSection}{Research Interests}
+
+\small{
+    {\bf Control Theory} 
+    \\
+    Adaptive Control, Optimal Control
+    
+    
+    {\bf Neural Network-based Control} 
+    \\
+    Neuro-Adaptive Control, Reinforcement Learning
+    
+    
+    {\bf Contraction Theory} 
+
+    {\bf Online Optimization}
+}
+
+\end{rSection}
+
+% ============================================
 % Education
 % ============================================
 \begin{rSection}{Education}
 
-{\bf Dept. of Mechanical Engineering, Incheon National University, Korea} 
-    \hfill 
-    {\em Mar 2017 - Feb 2023} 
-    \\
-    {\textit {Bachelor of Engineering}
-} 
+\small{
+    {\bf Korea Advanced Institute of Science and Technology (KAIST), Korea} 
+        \hfill 
+        {\em Sept. 2025 – Present} 
+        \\
+        CCS Graduate School of Mobility
+        \\
+        {\textit {Ph.D. of Science in Mobility Engineering}} 
 
-{\bf School of Mechanical Engineering, Gwangju Institute of Science and Technology, Korea} 
-    \hfill 
-    {\em Mar 2023 - Feb 2025} 
-    \\
-    { \textit {Master of Science in Mechanical Engineering}
-} 
+    \sout{\bf{Gwangju Institute of Science and Technology (GIST)}, Korea}, \textit{Withdrew for further studies.}
+        \hfill 
+        {\em Mar. 2025 – Aug. 2025} 
+        \\
+        \sout{School of Mechanical Engineering}
+        \\
+        \sout{\textit {Ph.D. of Science in Mechanical Engineering}} 
 
-{\bf School of Mechanical Engineering, Gwangju Institute of Science and Technology, Korea} 
+    {\bf Gwangju Institute of Science and Technology (GIST), Korea} 
+        \hfill 
+        {\em Mar. 2023 – Feb. 2025} 
+        \\
+        School of Mechanical Engineering
+        \\
+        {\textit {Master of Science in Mechanical Engineering}} 
+
+    {\bf Incheon National University (INU), Korea} 
+        \hfill 
+        {\em Mar. 2017 – Feb. 2023} 
+        \\
+        Department of Mechanical Engineering
+        \\
+        {\textit {Bachelor of Engineering}} 
+}
+
+
+\end{rSection}
+
+\begin{rSection}{Professional Experience}
+
+\small{
+
+    {\bf Korea Advanced Institute of Science and Technology (KAIST)}
     \hfill 
-    {\em Mar 2025 - Present} 
+    {\em Mar. 2023 – Aug. 2025} 
     \\
-    {\textit {Ph.D. of Science in Mechanical Engineering}
-} 
+    {\textit {Part time Contract Research Scientist}}
+    \\
+    - Research on Neural Network-based Control for Mobility Systems
+
+}
 
 \end{rSection}
 
@@ -81,87 +144,75 @@
 % ============================================
 \begin{rSection}{Skills}
 
+\small{
+
 \begin{tabular}{ @{} >{\bfseries}l @{\hspace{6ex}} l }
     Languages: \ & Korean, English \\
 
-    Programming: \ & Matlab, Python, C/C++ \\
+    Programming: \ & Matlab/Simulink, Python, C/C++ \\
 
     Implementation: 
-        & {\textbf{Simulation: }}CarMaker, ROS\\
-        & {\textbf{Others: }}
+        & {\textbf{Simulation }}CarMaker, ROS
+        \\
+        & {\textbf{Others }}Git, LaTeX, Jekyll
 \end{tabular}
 
+}
+
 \end{rSection}
-
-% ============================================
-% Research Experience
-% ============================================
-% \begin{rSection}{Research Experience}
-
-% {\bf Work Station x,Strange Place x} \hfill {\em June 20xx - April 20xx} 
-% \\{\textit{ Engineer}}
-% \\- xxx
-% \\- xxx
-
-% \end{rSection}
-
-% ============================================
-% Projects
-% ============================================
-% \begin{rSection}{Projects}
-
-% {\bf Work Station x,Strange Place x} \hfill {\em June 20xx - April 20xx} 
-% \\{\textit{ Engineer}}
-% \\- xxx
-% \\- xxx
-
-% \end{rSection}
 
 % ============================================
 % Publications
 % ============================================
 \begin{rSection}{Publications}
 
-{\bf Work Station x,Strange Place x} \hfill {\em June 20xx - April 20xx} 
-\\{\textit{ Engineer}}
-\\- xxx
-\\- xxx
-
+\input{publications.tex}
 
 \end{rSection}
 
 % ============================================
-% Award
+% Grants and Awards
 % ============================================
-\begin{rSection}{Award}
-{\bf INU MATLAB Cody Chanllenge} 
-    \hfill 
-    {\em June 2021} 
-    \\
-    {\textit {Top Prize}
-} 
+\begin{rSection}{Grants and Awards}
 
-{\bf Institute of Control, Robotics and Systems} 
-    \hfill 
-    {\em June 2023} 
-    \\
-    {\textit {Best Paper Award}
-} 
+\small{
+
+    {\bf IEEE International Workshop on Intelligent Systems (IWIS)} 
+        \hfill 
+        {\em Jul. 2025} 
+        \\
+        {\textit {Best Presentation Paper Award}} 
+
+    {\bf European Control Association (EUCA) } 
+        \hfill 
+        {\em Jun. 2025} 
+        \\
+        {\textit {Student Support}}
+        \hfill 
+        {400 EUR}
+
+    {\bf Graduate International Research Experience Fellowship (GIST-IREF)} 
+        \hfill 
+        {\em Oct. 2024} 
+        \\
+        {\textit {Research Support}}
+        \hfill 
+        {16 million KRW (approx. 12,000 USD)}
+        
+    {\bf Institute of Control, Robotics and Systems (ICROS)} 
+        \hfill 
+        {\em Jun. 2023} 
+        \\
+        {\textit {Best Paper Award}} 
+
+    {\bf INU MATLAB Cody Challenge} 
+        \hfill 
+        {\em Jun. 2021} 
+        \\
+        {\textit {Top Prize}} 
+
+}
 
 \end{rSection}
-
-% ============================================
-% Scholarship
-% ============================================
-\begin{rSection}{Scholarship}
-    - Research Assistant 
-    \hfill 
-    {Dec 2023} \\
-    - Graduate International Research Experience Fellowship 
-    \hfill 
-    {Jul 2024} \\
-\end{rSection}
-    
-
 
 \end{document}
