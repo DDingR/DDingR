@@ -42,6 +42,8 @@
         urlcolor=black		% color of external links
     }
 \usepackage{kotex}
+\usepackage{multirow}
+\usepackage{graphicx}
 
 % \begin{center}
 
@@ -69,30 +71,55 @@
     } % Your address
 
 \begin{document}
-{\centerline {\em \textbf { Myeongseok Ryu is under Ph.D. course.} } }
+{
+    \centerline {
+        \em \textbf { Myeongseok Ryu is under Ph.D. course.} (compiled on \today)
+    } 
+}
 
 % ============================================
 % Research Interests
 % ============================================
-\begin{rSection}{Research Interests}
+\begin{minipage}[t]{0.5\textwidth}
+    \begin{rSection}{Research Interests}
+    \vspace{.5em}
+    \small{
+        {\bf Control Theory} 
+        \\
+        Adaptive Control, Optimal Control
 
-\small{
-    {\bf Control Theory} 
-    \\
-    Adaptive Control, Optimal Control
-    
-    
-    {\bf Neural Network-based Control} 
-    \\
-    Neuro-Adaptive Control, Reinforcement Learning
-    
-    
-    {\bf Contraction Theory} 
+        \vspace{.5em}
+        {\bf Neural Network-based Control} 
+        \\
+        Neuro-Adaptive Control, Reinforcement Learning
 
-    {\bf Online Optimization}
-}
-
-\end{rSection}
+        \vspace{.5em}
+        {\bf Contraction Theory} 
+        
+        \vspace{.5em}
+        {\bf Online Optimization}
+    }
+    \end{rSection}
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.35\textwidth}
+    \begin{rSection}{Profile \& Logos}
+        \vspace{.5em}
+        \begin{center}
+            \begin{tabular}{cc}
+                \multirow{3}{*}{\includegraphics[width=0.4\textwidth]{ms.jpg}}\vspace{1em} &
+                \\
+                [-.5em]
+                & 
+                \includegraphics[width=0.4\textwidth]{logo_KAIST_simple.png}
+                \\
+                [1em]
+                & 
+                \includegraphics[width=0.4\textwidth]{logo_MIC.png} \\
+            \end{tabular}
+        \end{center}
+    \end{rSection}
+\end{minipage}
 
 % ============================================
 % Education
@@ -100,17 +127,21 @@
 \begin{rSection}{Education}
 
 \small{
-    {\bf Korea Advanced Institute of Science and Technology (KAIST), Korea} 
+    {\bf Korea Advanced Institute of Science and Technology (KAIST), Korea}
         \hfill 
-        {\em Sept. 2025 – Present} 
+        {\em September 2025 – Present} 
         \\
         CCS Graduate School of Mobility
         \\
         {\textit {Ph.D. of Science in Mobility Engineering}} 
+        \vspace{-.5em}
+        \begin{itemize}
+            \item Supervisor: Prof. Kyunghwan Choi, KAIST
+        \end{itemize}
 
-    \sout{\bf{Gwangju Institute of Science and Technology (GIST)}, Korea}, \textit{Withdrew for further studies.}
+    \sout{\bf{Gwangju Institute of Science and Technology (GIST), Korea}}, (\textit{Withdrew for further studies})
         \hfill 
-        {\em Mar. 2025 – Aug. 2025} 
+        {\em March 2025 – May 2025} 
         \\
         \sout{School of Mechanical Engineering}
         \\
@@ -118,15 +149,21 @@
 
     {\bf Gwangju Institute of Science and Technology (GIST), Korea} 
         \hfill 
-        {\em Mar. 2023 – Feb. 2025} 
+        {\em March 2023 – February 2025} 
         \\
         School of Mechanical Engineering
         \\
         {\textit {Master of Science in Mechanical Engineering}} 
+        \vspace{-.5em}
+        \begin{itemize}
+            \item Thesis: Constrained Optimization-Based Neuro-Adaptive Control (CoNAC) for Euler-Lagrange Systems
+            \vspace{-.75em}
+            \item Supervisor: Prof. Kyunghwan Choi, GIST
+        \end{itemize}
 
     {\bf Incheon National University (INU), Korea} 
         \hfill 
-        {\em Mar. 2017 – Feb. 2023} 
+        {\em March 2017 – February 2023} 
         \\
         Department of Mechanical Engineering
         \\
@@ -136,13 +173,16 @@
 
 \end{rSection}
 
+% ============================================
+% Professional Experience
+% ============================================
 \begin{rSection}{Professional Experience}
 
 \small{
 
-    {\bf Korea Advanced Institute of Science and Technology (KAIST)}
+    {\bf Korea Advanced Institute of Science and Technology (KAIST), Korea}
     \hfill 
-    {\em Mar. 2023 – Aug. 2025} 
+    {\em May 2023 – August 2025} 
     \\
     {\textit {Part time Contract Research Scientist}}
     \\
@@ -192,13 +232,13 @@
 
     {\bf IEEE International Workshop on Intelligent Systems (IWIS)} 
         \hfill 
-        {\em Jul. 2025} 
+        {\em July 2025} 
         \\
         {\textit {Best Presentation Paper Award}} 
 
     {\bf European Control Association (EUCA) } 
         \hfill 
-        {\em Jun. 2025} 
+        {\em June 2025} 
         \\
         {\textit {Student Support}}
         \hfill 
@@ -206,7 +246,7 @@
 
     {\bf Graduate International Research Experience Fellowship (GIST-IREF)} 
         \hfill 
-        {\em Oct. 2024} 
+        {\em October 2024} 
         \\
         {\textit {Research Support}}
         \hfill 
@@ -214,13 +254,13 @@
         
     {\bf Institute of Control, Robotics and Systems (ICROS)} 
         \hfill 
-        {\em Jun. 2023} 
+        {\em June 2023} 
         \\
         {\textit {Best Paper Award}} 
 
     {\bf INU MATLAB Cody Challenge} 
         \hfill 
-        {\em Jun. 2021} 
+        {\em June 2021} 
         \\
         {\textit {Top Prize}} 
 

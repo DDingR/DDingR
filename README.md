@@ -24,7 +24,7 @@ You can find my bibliography in
   https://orcid.org/0009-0004-3279-5765
 </a>
 
-<!-- My CV is available in [HERE](cv.pdf). -->
+My CV is available in [HERE](cv.pdf).
 
 Contact me through <a href="mailto:dding_98@kaist.ac.kr">**dding_98@kaist.ac.kr**</a>
 
