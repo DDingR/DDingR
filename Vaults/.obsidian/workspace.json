@@ -30,8 +30,21 @@
               "icon": "lucide-file",
               "title": "(W36)25-08"
             }
+          },
+          {
+            "id": "a065de66c06ab95c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,7 +204,7 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "85ed86cc892145b1",
+  "active": "a065de66c06ab95c",
   "lastOpenFiles": [
     "Manuscript Drafts/(TBD) Rear-wheel Steering AMC 2026.md"
   ]
