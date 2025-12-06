@@ -9,6 +9,7 @@ Visit our <a href="https://github.com/KAIST-MIC-Lab">**Github Organization**</a>
 You can find my bibliography in 
 - [Our webpage](https://kaist-mic-lab.github.io/members/msRyu/) (most of PDFs are available)
 - <a href="https://scholar.google.com/citations?user=gUHuDJ4AAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/></a>
+- <a href="https://www.linkedin.com/in/dding98/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 - <a href="https://www.researchgate.net/profile/Myeongseok-Ryu"><img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white"/></a>
 - <a
   id="cy-effective-orcid-url"
@@ -21,10 +22,10 @@ You can find my bibliography in
     src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
     style="width: 1em; margin-inline-start: 0.5em"
     alt="ORCID iD icon"/>
-  https://orcid.org/0009-0004-3279-5765
+  0009-0004-3279-5765
 </a>
 
-My CV is available in <a href="https://kaist-mic-lab.github.io/static/img/members/msRyu.pdf">HERE</a>.
+My CV is available in <a href="https://kaist-mic-lab.github.io/static/members/msRyu.pdf">HERE</a>.
 
 Contact me through <a href="mailto:dding_98@kaist.ac.kr">**dding_98@kaist.ac.kr**</a>
 
