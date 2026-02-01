@@ -68,7 +68,8 @@
 \def \printname {
   \begingroup
     % \hfil{\MakeUppercase{\namesize\bf \@name}}\hfil
-    \hfil{\namesize\bf \@name}\hfil
+    % \hfil{\namesize\bf \@name}\hfil
+    \hfil{\namesize \@name}\hfil
     \nameskip\break
   \endgroup
 }
